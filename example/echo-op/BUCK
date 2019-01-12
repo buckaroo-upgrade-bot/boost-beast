@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'echo-op',
+  srcs = [
+    'echo_op.cpp',
+  ],
+  deps = [
+    '//:beast',
+  ],
+)
