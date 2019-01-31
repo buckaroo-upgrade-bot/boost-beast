@@ -134,7 +134,7 @@ revision = "d931e50f7e9eb5d846aab6dff882728802d84361"
 
 [lock."github.com/buckaroo-pm/boost-multiprecision"]
 versions = [ "branch=master" ]
-revision = "466fe3d1bec248781b4b26d98ee6cf0f57d92017"
+revision = "d931e50f7e9eb5d846aab6dff882728802d84361"
 
 [lock."github.com/buckaroo-pm/boost-numeric_conversion"]
 versions = [ "branch=master" ]
